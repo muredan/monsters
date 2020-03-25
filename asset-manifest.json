@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/muredan/monsters.git/static/css/main.1777ea13.chunk.css",
+    "main.js": "/muredan/monsters.git/static/js/main.5171f4e4.chunk.js",
+    "main.js.map": "/muredan/monsters.git/static/js/main.5171f4e4.chunk.js.map",
+    "runtime-main.js": "/muredan/monsters.git/static/js/runtime-main.d8245c3f.js",
+    "runtime-main.js.map": "/muredan/monsters.git/static/js/runtime-main.d8245c3f.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/muredan/monsters.git/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/muredan/monsters.git/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/muredan/monsters.git/index.html",
+    "precache-manifest.3f7abcfebac4fc5bedcfc8902fb82685.js": "/muredan/monsters.git/precache-manifest.3f7abcfebac4fc5bedcfc8902fb82685.js",
+    "service-worker.js": "/muredan/monsters.git/service-worker.js",
+    "static/css/main.1777ea13.chunk.css.map": "/muredan/monsters.git/static/css/main.1777ea13.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/muredan/monsters.git/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8245c3f.js",
+    "static/js/2.0d232ef2.chunk.js",
+    "static/css/main.1777ea13.chunk.css",
+    "static/js/main.5171f4e4.chunk.js"
+  ]
+}
